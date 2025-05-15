@@ -1,4 +1,4 @@
-# 📊 Workflow | Gestión de Tiempos con Google Calendar + Google Sheets
+# 📊 Workflow | Gestión de Tiempos con Google Calendar + Google Sheets + Salesforce
 
 **Workflow** es una herramienta diseñada para integrarse de forma nativa con el ecosistema de **Google Workspace** ☁️.  
 Su objetivo es **automatizar la gestión de horas de trabajo del personal**, tomando los datos directamente desde **Google Calendar** y organizándolos de manera estructurada en **Google Sheets**.
@@ -30,6 +30,7 @@ Su objetivo es **automatizar la gestión de horas de trabajo del personal**, tom
 - **Google Apps Script** (para automatizaciones)  
 - **OAuth 2.0** (autenticación segura)  
 - **Javascript / Node.js** para la lógica de integración
+- **Salesforce** para cruzar con información de los empleados
 
 ---
 
